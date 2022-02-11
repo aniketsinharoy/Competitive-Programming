@@ -1,4 +1,4 @@
-class House_Robber
+class 1_House_Robber
 {
     public int rob(int[] nums) 
     {
