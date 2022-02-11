@@ -1,4 +1,4 @@
-class Min_Cost_Climbing_Stairs
+class 2_Min_Cost_Climbing_Stairs
 {
     public int minCostClimbingStairs(int[] cost) 
     {
