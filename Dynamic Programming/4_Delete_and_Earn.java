@@ -1,4 +1,4 @@
-class Delete_and_Earn
+class Delete_And_Earn
 {
     public int deleteAndEarn(int[] nums) 
     {
