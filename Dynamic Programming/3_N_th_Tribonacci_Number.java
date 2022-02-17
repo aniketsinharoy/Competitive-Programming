@@ -1,4 +1,4 @@
-class N_th_Tribonacci_Number
+class N_th_Tribonacci__Number
 {
     public int tribonacci(int n) 
     {
